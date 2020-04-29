@@ -7,10 +7,10 @@ import io.quarkus.test.junit.QuarkusTest;
 import org.junit.jupiter.api.Test;
 
 @QuarkusTest
-public class HelloWorldResourceTest {
+public class HelloWorldControllerIntegrationTest {
 
   @Test
-  public void testHelloEndpoint() {
+  public void helloworld() {
     given().when().get("/hello").then().statusCode(200).body(is("hello world!"));
   }
 }
