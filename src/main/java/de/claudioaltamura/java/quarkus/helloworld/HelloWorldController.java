@@ -1,4 +1,4 @@
-package de.claudioaltamura;
+package de.claudioaltamura.java.quarkus.helloworld;
 
 import javax.enterprise.context.ApplicationScoped;
 import javax.ws.rs.GET;
