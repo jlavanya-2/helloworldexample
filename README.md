@@ -1,3 +1,8 @@
+[![Build Status](https://travis-ci.org/claudioaltamura/quarkus-helloworld.svg?branch=master)](https://travis-ci.org/claudioaltamura/quarkus-helloworld)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 # quarkus-helloworld project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
