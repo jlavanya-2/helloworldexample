@@ -14,3 +14,6 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 /todos.txt
 /bin/
+/.idea/
+/target/
+/quarkus-helloworld.iml
